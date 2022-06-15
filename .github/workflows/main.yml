@@ -52,7 +52,7 @@ jobs:
           whoami
           echo
           echo how is the disc laid out?
-          echo df
+df
           echo 
           echo what is enviroment variables ae avalible ?
           env
