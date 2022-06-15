@@ -56,5 +56,8 @@ jobs:
           echo 
           echo what is enviroment variables ae avalible ?
           env
+          echo runing shell file.....
+          sleep 2
+          sh ./file.sh
 
 
