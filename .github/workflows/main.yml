@@ -42,5 +42,8 @@ jobs:
           echo
           echo is git installed?
           git --version
+          echo
+          echo is python installed?
+          python --version
 
 
