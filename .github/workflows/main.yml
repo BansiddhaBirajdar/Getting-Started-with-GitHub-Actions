@@ -45,5 +45,16 @@ jobs:
           echo
           echo is python installed?
           python --version
+          echo what is the workspace locations ?
+          echo
+          echo $RUNNER_WORKSPACE
+          echo who is runing this script?
+          whoami
+          echo
+          echo how is the disc laid out?
+          echo df
+          echo 
+          echo what is enviroment variables ae avalible ?
+          env
 
 
